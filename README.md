@@ -44,7 +44,14 @@ Java API development · Spring MVC · REST and SOAP · SQL queries · API docume
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Additional experience: Angular device-catalogue prototyping, Sencha Ext JS enterprise interfaces, and implementing UI from Figma designs.
+### Additional frontend experience
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+- **TechBuy:** Angular device-catalogue application with product configuration, filtering, basket flows and Microsoft sign-in integration.
+- **What to Watch:** React academic full-stack project; details below.
+- Also worked with Sencha Ext JS enterprise interfaces and implemented UI from Figma designs.
 
 ## Featured public project
 
@@ -58,4 +65,5 @@ An **academic full-stack movie-discovery application** developed for my bachelor
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B5%D0%BB%D0%B8%D0%BD-%D0%BF%D0%B0%D0%BD%D1%87%D0%B5%D0%B2-a21372275/) · [Email](mailto:panchevivelin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivelin%20Panchev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B5%D0%BB%D0%B8%D0%BD-%D0%BF%D0%B0%D0%BD%D1%87%D0%B5%D0%B2-a21372275/)
+[![Email](https://img.shields.io/badge/Email-panchevivelin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panchevivelin@gmail.com)
