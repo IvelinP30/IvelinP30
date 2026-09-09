@@ -65,5 +65,5 @@ An **academic full-stack movie-discovery application** developed for my bachelor
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivelin%20Panchev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B5%D0%BB%D0%B8%D0%BD-%D0%BF%D0%B0%D0%BD%D1%87%D0%B5%D0%B2-a21372275/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivelin%20Panchev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivelin-panchev-a21372275/)
 [![Email](https://img.shields.io/badge/Email-panchevivelin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panchevivelin@gmail.com)
